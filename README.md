@@ -37,4 +37,7 @@
 
 
 ## 应用场景
-![image](https://user-images.githubusercontent.com/21175995/112278515-e1cdca80-8cbd-11eb-89e5-e1c092d1801b.png)
+![image](https://user-images.githubusercontent.com/21175995/112303476-49dcda80-8cd7-11eb-8539-8cd89d3b9ecf.png)
+
+## 逻辑架构
+![image](https://user-images.githubusercontent.com/21175995/112303626-78f34c00-8cd7-11eb-956b-e3237d940450.png)
