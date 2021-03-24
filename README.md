@@ -37,7 +37,10 @@
 
 
 ## 应用场景
-![image](https://user-images.githubusercontent.com/21175995/112303476-49dcda80-8cd7-11eb-8539-8cd89d3b9ecf.png)
+![image](https://user-images.githubusercontent.com/21175995/112304342-57469480-8cd8-11eb-8afd-2cb2e7a5a5c9.png)
 
 ## 逻辑架构
-![image](https://user-images.githubusercontent.com/21175995/112303626-78f34c00-8cd7-11eb-956b-e3237d940450.png)
+![image](https://user-images.githubusercontent.com/21175995/112304363-5b72b200-8cd8-11eb-9e0c-a3136de5f998.png)
+
+
+* **安全认证**
