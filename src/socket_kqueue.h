@@ -12,6 +12,9 @@
 
 #include "socket_poll.h"
 
+// https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man2/kqueue.2.html
+// https://sjmulder.nl/dl/pdf/unsorted/2000%20-%20Lemon%20-%20Kqueue,%20A%20generic%20and%20scalable%20event%20notification%20facility.pdf
+
 namespace bluepill
 {
     class SocketKqueue : public SocketPoll
